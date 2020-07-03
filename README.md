@@ -4,9 +4,8 @@ MERN Stack Application for Fullstack Development IV - Blockchain Development Pro
 
 ### 
 
-![](./demo.jpg)
+![](./demo.JPG)
                 
-## Getting Started
 ## Chat_App_Admin               
 
 Please install dependencies by running:
